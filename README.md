@@ -67,6 +67,14 @@ Tech Stack
 <div align="center">
 
 <a href="https://github.com/Emerson-Mendonca/app_flutter" target="_blank" >
+<img style="height: auto; width: 400px;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Emerson-Mendonca&repo=todo_list_app_monorepo&theme=dracula" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Emerson-Mendonca/app_flutter" target="_blank" >
 <img style="height: auto; width: 400px;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=Emerson-Mendonca&repo=app_flutter&theme=dracula" />
 </a>
 
